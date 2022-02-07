@@ -16,5 +16,5 @@
 ### :fire: My Stats :
 
 
-[![MitchDLincoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchDLincoln&show_icons=true&theme=radical)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitchDLincoln&show_icons=true&theme=radical)]
+![MitchDLincoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchDLincoln&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MitchDLincoln&show_icons=true&theme=radical)
