@@ -17,10 +17,18 @@
 
 <div id="footer" align="center">
   <div id="stats">
+    
+    
     ![MitchDLincoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchDLincoln&show_icons=true&theme=radical)
+    
+    
   </div>
   
   <div id="languages">
+    
+    
     ![Top Langs](https:/}/github-readme-stats.vercel.app/api/top-langs/?username=MitchDLincoln&show_icons=true&theme=radical)
+    
+    
   </div>
 </div>
