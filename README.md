@@ -16,13 +16,8 @@
 ### :fire: My Stats :
 
 <div id="footer" align="center">
-  <div id="stats">
-    
-    
-    ![MitchDLincoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchDLincoln&show_icons=true&theme=radical)
+  <div id="stats">                     
     <img alt="MitchDLincoln's GitHub stats" src="https://mitchdlincoln-github-readme-stats.vercel.app/api/?username=MitchDLincoln&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    
-    
   </div>
   
   <div id="languages">
