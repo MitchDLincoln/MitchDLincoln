@@ -12,19 +12,31 @@
   </h1>
 </div>
 
+### :man_technologist: About Me :
 
+I am a Full Stack Developer from Italy.
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div id="toolsLanguages" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
 ### :fire: My Stats :
 
 <div id="footer" align="center">
-  <div id="stats">                     
-    <img alt="MitchDLincoln's GitHub stats" src="https://mitchdlincoln-github-readme-stats.vercel.app/api/?username=MitchDLincoln&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </div>
-  
-  <div id="languages">
-    
-    
-    ![Top Langs](https:/}/github-readme-stats.vercel.app/api/top-langs/?username=MitchDLincoln&show_icons=true&theme=radical)
-    
-    
+  <div id="stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="MitchDLincoln's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=MitchDLincoln&show_icons=true&theme=radical&hide_border=true"/>
+    </a>
   </div>
 </div>
